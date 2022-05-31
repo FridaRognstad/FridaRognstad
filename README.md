@@ -1,17 +1,24 @@
-## :kissing_heart: Hello!
+# Frida Rognstad
 
-:smiley:
+Hi! I'm Frida, a FrontEnd development student from Norway.
+
+- :information_desk_person: Pronouns: She | Her
+- 🌱 Currently learning Figma
+- ⚡ Fun fact: ...
+
+
+### Toolbox:
+- React and Next
+- Css and Sass
+- JavaScript and TypeScript
+- RESTful APIs
+- Bootstrap
+- Wordpress and Strapi
+
+### Reach me:
+LinkedIn: https://www.linkedin.com/in/frida-rognstad
+
 <!--
 **FridaRognstad/FridaRognstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
