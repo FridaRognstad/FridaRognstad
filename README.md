@@ -1,5 +1,4 @@
-##HEllo
-/play nyan
+##:smile_cat: Hello!
 
 :smiley:
 <!--
