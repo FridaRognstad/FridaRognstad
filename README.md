@@ -1,7 +1,5 @@
 # Frida Rognstad
 
-Hi! I'm Frida, a FrontEnd development student from Norway who's ready to start the jouney as a developer.
-
 :information_desk_person: Pronouns she/her | :coffee: Drinks to much coffee | :bear: Momabear | 🌱 Currently learning Figma
 
 ### Toolbox:
