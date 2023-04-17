@@ -1,6 +1,6 @@
 # Frida Rognstad
 
-:information_desk_person: Pronouns she/her | :coffee: Drinks to much coffee | :bear: Momabear | 🌱 Currently learning Figma
+:information_desk_person: Pronouns she/her | :coffee: Drinks to much coffee | :bear: Momabear 
 
 ### Toolbox:
 - React and Next
